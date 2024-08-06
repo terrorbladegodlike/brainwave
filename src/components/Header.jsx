@@ -35,6 +35,7 @@ const Header = () => {
   const handleClink = () => {
     if (!openNavigation) return;
 
+    enablePageScroll();
     setOpenNavigation(false);
   };
 
