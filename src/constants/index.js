@@ -300,7 +300,7 @@ export const socials = [
     id: "0",
     title: "Discord",
     iconUrl: discordBlack,
-    url: "#",
+    url: "phantomlancers.",
   },
   {
     id: "1",
@@ -312,18 +312,18 @@ export const socials = [
     id: "2",
     title: "Instagram",
     iconUrl: instagram,
-    url: "#",
+    url: "https://www.instagram.com/misha.ternovetchii/",
   },
   {
     id: "3",
     title: "Telegram",
     iconUrl: telegram,
-    url: "#",
+    url: "https://t.me/phantomlancers",
   },
   {
     id: "4",
     title: "Facebook",
     iconUrl: facebook,
-    url: "#",
+    url: "https://www.facebook.com/profile.php?id=100054907149856",
   },
 ];
